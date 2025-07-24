@@ -1,0 +1,6 @@
+#creating a set
+1.# Using curly braces
+my_set = {1, 2, 3}
+
+2.# Using set() constructor
+another_set = set([3, 4, 5])
