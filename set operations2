@@ -1,0 +1,9 @@
+1.#adding  elments in a set
+my_set.add(4)  # Adds a single element
+2.#updating a set (adding multiple elements)
+my_set.update([5, 6])
+3.removing elements
+my_set.remove(2)     # Removes 2; raises KeyError if not found
+my_set.discard(10)   # Removes 10 if present; no error if not
+my_set.pop()         # Removes and returns an arbitrary element
+my_set.clear()       # Removes all elements
