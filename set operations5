@@ -1,0 +1,7 @@
+#membership testing
+print(3 in a)    # True
+print(10 in a)   # False
+#set comparisons
+a.issubset(b)
+a.issuperset(b)
+a.isdisjoint(b)  # True if no common elements
